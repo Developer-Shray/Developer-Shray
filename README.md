@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Developer-Shray
 - 👀 I’m interested in Python, DSA, SQL and AI/ML
 - 🌱 I’m currently learning DSA and Python Frameworks for Python Web Developement.
-- 💞️ I’m looking to connect wiy various coders around the world.
+- 💞️ I’m looking to connect with various coders around the world.
 - 📫 Just send me an Email in order to connect: shray.developer@outlook.com
 
 
