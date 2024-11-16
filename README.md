@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Developer-Shray
+- 👋 Hi, I’m Shray Sharma
 - 👀 I’m interested in Python, DSA, SQL and AI/ML
 - 🌱 I’m currently working on Python Frameworks for Python Web Developement.
 - 💞️ I’m looking to connect with various coders around the world.
