@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shray Sharma
 - 👀 I’m interested in Power Bi Development, Data Analytics, Python, SQL and AI/ML.
-- 🌱 I’m currently working on Power Bi Development.
+- 🌱 I’m currently working on Power Bi Development and Data Analytics.
 - 💞️ I’m looking to connect with various coders and developers around the world.
-- 📫 Just send me an Email in order to connect: shray.developer@outlook.com.
+- 📫 Just send me an Email in order to connect: shraysharmagnps@gmail.com
 
 
 <!---
